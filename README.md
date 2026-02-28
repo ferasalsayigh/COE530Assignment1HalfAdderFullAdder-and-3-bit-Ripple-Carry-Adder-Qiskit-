@@ -92,4 +92,3 @@ Using student ID `202515470`:
 
 Feras Alsayigh  
 MSc Quantum Computing Candidate – KFUPM  
-Under the supervision of Dr. Muhamad Felemban
